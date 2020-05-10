@@ -1,2 +1,7 @@
-# RGB-UX
-Prueba de concepto 2
+# RGB-ux
+
+
+Channel Support: https://t.me/RGBux
+
+
+Documentation: https://github.com/rgb-x/system/wiki
